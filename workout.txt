@@ -1,0 +1,3 @@
+chest press,3,12,35
+lat pulldown,3,12,40
+bicep curl,4,12,15
